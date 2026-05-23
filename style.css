@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h2, p {
+  margin: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ffc352;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: black;
+  font-style: normal;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+} 
+body {
+  background: #ff6bd1;
+}
+p {
+  text-align: center;
+  color: #91ffff;
+  font-size: 40px;
+}
+h1 {
+  font-weight: bold;
+  color: #ffc352;
+  text-align: center;
+  font-size: 75px;
+
+}
+  
+  h2 {
+    text-align: center;
+    font-weight: bold;
+    color: #ffc352;
+    font-size: 40px;   
+  }
+
+.lists {
+  text-align: center;
+  color: #91ffff;
+  font-size: 30px;
+}
+ 
