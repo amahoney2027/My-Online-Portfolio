@@ -75,4 +75,7 @@ justify-content: center;
   justify-content: center;
   display: flex;
 }
- 
+}
+.imageContainer {
+  text-align: center;
+} 
