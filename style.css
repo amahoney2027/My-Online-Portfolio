@@ -59,4 +59,20 @@ iframe {
   display: block;
   margin: 20px auto;
 }
+.me {
+  justify-content: center;
+  display: flex;
+}
+.best {
+justify-content: center;
+  display: flex;
+}
+.future {
+  justify-content: center;
+  display: flex;
+}
+.growth {
+  justify-content: center;
+  display: flex;
+}
  
